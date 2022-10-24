@@ -1,0 +1,1 @@
+1. the inputs were being concatenated together as strings instead of numbers
